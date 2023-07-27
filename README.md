@@ -3,9 +3,12 @@
 ## Came here to learn :ghost: 
 ### my skills 
 ```
-- html/css/js(bit)
-- English
-- Figma, MS Office, Trello
+-JS React, Node, Vue (basic knowledge)
+-Figma, MS Office, Trello
+-github
+-post man
+-html/css
+-mySQL (basic)
 ```
 ### *My fav*
 * Anime :heartpulse:  
